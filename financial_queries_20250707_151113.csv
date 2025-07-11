@@ -1,0 +1,161 @@
+query,expected_intent
+Amazon Q3 financial highlights,quarterly_report_summary
+Long-term outlook for TSLA shares,stock_analysis
+Analyze Salesforce stock trends,stock_analysis
+Regulatory impact on financial industry,sector_analysis
+Current rates for municipal bonds,fixed_income_analysis
+Comparative analysis of Johnson & Johnson vs competitors,stock_analysis
+Recent price action for TSLA,stock_analysis
+How is Amazon stock performing?,stock_analysis
+Did KO beat estimates last quarter?,quarterly_report_summary
+2024 earnings call summary for Salesforce,quarterly_report_summary
+Valuation metrics for Exxon shares,stock_analysis
+Did GOOGL beat estimates last quarter?,quarterly_report_summary
+Investment potential of Coca-Cola stock,stock_analysis
+Comparative analysis of Johnson & Johnson vs competitors,stock_analysis
+Default probabilities for Exxon debt,fixed_income_analysis
+Duration and convexity for INTC bonds,fixed_income_analysis
+Python programming tutorials,unclassified
+Profitability metrics across communication services companies,sector_analysis
+Recipe for chocolate chip cookies,unclassified
+How to pay off student loans faster,unclassified
+Credit risk assessment of PFE bonds,fixed_income_analysis
+Revenue and profit for WMT Q2,quarterly_report_summary
+How to improve my credit score,unclassified
+Valuation metrics for Johnson & Johnson shares,stock_analysis
+Duration and convexity for BAC bonds,fixed_income_analysis
+Competitive landscape in industrials industry,sector_analysis
+Supply chain dynamics in energy sector,sector_analysis
+Q4 earnings call summary for JPMorgan,quarterly_report_summary
+Default probabilities for Intel debt,fixed_income_analysis
+Emerging trends in real estate market,sector_analysis
+Analysis of AAPL corporate bonds,fixed_income_analysis
+Comparative analysis of Google vs competitors,stock_analysis
+Yield analysis for Netflix zero-coupon bonds,fixed_income_analysis
+Spreads for corporate bonds in current market,fixed_income_analysis
+Growth projections for healthcare sector,sector_analysis
+Credit risk assessment of MSFT bonds,fixed_income_analysis
+Long-term outlook for WMT shares,stock_analysis
+Current rates for floating rate notes,fixed_income_analysis
+Best time to visit Japan,unclassified
+Analyze Pfizer stock metrics,stock_analysis
+Key metrics from ORCL's latest earnings,quarterly_report_summary
+Top performers in healthcare sector 2024,sector_analysis
+META stock forecast and price targets,stock_analysis
+Emerging trends in healthcare market,sector_analysis
+Yield curve for Oracle fixed income,fixed_income_analysis
+How to train for a marathon,unclassified
+Profitability metrics across technology companies,sector_analysis
+Competitive landscape in communication services industry,sector_analysis
+INTC earnings per share previous,quarterly_report_summary
+Spreads for municipal bonds in current market,fixed_income_analysis
+Liquidity in investment grade debt market,fixed_income_analysis
+DIS stock forecast and price targets,stock_analysis
+Growth projections for real estate sector,sector_analysis
+How to change my password,unclassified
+Credit risk assessment of TSLA bonds,fixed_income_analysis
+Long-term outlook for AMZN shares,stock_analysis
+What's the weather forecast tomorrow?,unclassified
+Valuation metrics for Netflix shares,stock_analysis
+Balance sheet summary for Meta,quarterly_report_summary
+Compare car insurance quotes,unclassified
+Analyze Exxon stock valuation,stock_analysis
+KO earnings per share 2024,quarterly_report_summary
+Did XOM beat estimates last quarter?,quarterly_report_summary
+Materials sector performance Q2,sector_analysis
+Meditation techniques for stress relief,unclassified
+Where should I go for vacation?,unclassified
+How is Meta stock performing?,stock_analysis
+Oracle debt instrument analysis,fixed_income_analysis
+Investment potential of Apple stock,stock_analysis
+Comparative analysis of AMD vs competitors,stock_analysis
+Duration and convexity for META bonds,fixed_income_analysis
+XOM stock forecast and price targets,stock_analysis
+Did MSFT beat estimates last quarter?,quarterly_report_summary
+Default probabilities for Salesforce debt,fixed_income_analysis
+Recent price action for AMZN,stock_analysis
+Technical analysis for JNJ,stock_analysis
+Should I buy or rent a home?,unclassified
+Comparative analysis of Google vs competitors,stock_analysis
+Key metrics from AAPL's latest earnings,quarterly_report_summary
+Netflix previous financial highlights,quarterly_report_summary
+Benefits of yoga for beginners,unclassified
+Current rates for corporate bonds,fixed_income_analysis
+Best way to save for retirement,unclassified
+Competitive landscape in industrials industry,sector_analysis
+Competitive landscape in financial industry,sector_analysis
+Q1 earnings call summary for Johnson & Johnson,quarterly_report_summary
+Cash flow statement for Meta last 6 months,quarterly_report_summary
+Did GOOGL beat estimates last quarter?,quarterly_report_summary
+How to fix a leaky faucet,unclassified
+Comparative analysis of Amazon vs competitors,stock_analysis
+Did KO beat estimates last quarter?,quarterly_report_summary
+Competitive landscape in utilities industry,sector_analysis
+Consumer cyclical sector performance this year,sector_analysis
+Comparative analysis of Oracle vs competitors,stock_analysis
+Supply chain dynamics in materials sector,sector_analysis
+Spreads for municipal bonds in current market,fixed_income_analysis
+Tips for job interviews,unclassified
+Summary of Oracle's recent report,quarterly_report_summary
+Analysis of XOM corporate bonds,fixed_income_analysis
+Long-term outlook for AMZN shares,stock_analysis
+Show me the fundamentals for AAPL,stock_analysis
+Top performers in real estate sector ,sector_analysis
+Top performers in communication services sector last year,sector_analysis
+Current rates for zero-coupon bonds,fixed_income_analysis
+Signs of a toxic workplace,unclassified
+Investment potential of Intel stock,stock_analysis
+Industry analysis for real estate companies,sector_analysis
+Top performers in financial sector Q4,sector_analysis
+last year earnings call summary for Tesla,quarterly_report_summary
+How is AMD stock performing?,stock_analysis
+How is Tesla stock performing?,stock_analysis
+Summary of Meta's recent report,quarterly_report_summary
+Spreads for commercial paper in current market,fixed_income_analysis
+Recent price action for CRM,stock_analysis
+DIS stock forecast and price targets,stock_analysis
+Cash flow statement for Tesla last year,quarterly_report_summary
+Operating margins for TSLA last year,quarterly_report_summary
+Top performers in energy sector last 6 months,sector_analysis
+Local restaurants with vegan options,unclassified
+Competitive landscape in materials industry,sector_analysis
+Yield curve for Oracle fixed income,fixed_income_analysis
+Balance sheet summary for Exxon,quarterly_report_summary
+Investment potential of Salesforce stock,stock_analysis
+Top performers in healthcare sector this year,sector_analysis
+Career advice for finance professionals,unclassified
+Analysis of WMT corporate bonds,fixed_income_analysis
+Revenue and profit for AAPL previous,quarterly_report_summary
+Competitive landscape in materials industry,sector_analysis
+How is Walmart stock performing?,stock_analysis
+Cash flow statement for Amazon last year,quarterly_report_summary
+Growth projections for healthcare sector,sector_analysis
+Cash flow statement for Pfizer Q1,quarterly_report_summary
+Key metrics from JNJ's latest earnings,quarterly_report_summary
+Analysis of CRM corporate bonds,fixed_income_analysis
+How to start a small business,unclassified
+AMD debt instrument analysis,fixed_income_analysis
+Summary of Walmart's last quarter report,quarterly_report_summary
+Valuation metrics for Meta shares,stock_analysis
+DIY home renovation tips,unclassified
+KO earnings per share last 6 months,quarterly_report_summary
+Upcoming concerts in my area,unclassified
+Operating margins for AAPL Q4,quarterly_report_summary
+Key metrics from DIS's latest earnings,quarterly_report_summary
+Emerging trends in financial market,sector_analysis
+How is Coca-Cola stock performing?,stock_analysis
+Current rates for investment grade debt,fixed_income_analysis
+Profitability metrics across energy companies,sector_analysis
+Summary of JPMorgan's recent report,quarterly_report_summary
+Summary of Netflix's recent report,quarterly_report_summary
+Revenue and profit for AMD 2023,quarterly_report_summary
+Healthy meal prep ideas,unclassified
+Best books for personal development,unclassified
+Valuation metrics for NVIDIA shares,stock_analysis
+Supply chain dynamics in utilities sector,sector_analysis
+Analyze Meta stock valuation,stock_analysis
+Growth projections for industrials sector,sector_analysis
+Default probabilities for AMD debt,fixed_income_analysis
+Valuation metrics for Meta shares,stock_analysis
+What is the meaning of life?,unclassified
+Analysis of KO corporate bonds,fixed_income_analysis
